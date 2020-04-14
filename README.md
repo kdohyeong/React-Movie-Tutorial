@@ -1,5 +1,5 @@
 ## Movie list
-이 프로젝트는 React 연습을 위한 간단한 Movie list를 출력하는 웹 어플리케이션 입니다.
+이 프로젝트는 React 연습을 위한 간단한 영화 목록(Movie list)를 출력하는 웹 어플리케이션 입니다.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
